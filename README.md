@@ -42,3 +42,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 Also, you can check this section about [deployment on github](https://medium.com/@isharamalaviarachchi/how-to-deploy-your-react-app-into-github-pages-b2c96292b18e).
+
+## Snapshots
+![input form](images/input.png?raw=true "Input Form")
+![output form](images/output.png?raw=true "Output Form")
