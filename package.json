@@ -1,5 +1,5 @@
 {
-  "name": "frontend-trial-assignment",
+  "name": "frontend-trial-assignment-updated-version",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -53,5 +53,5 @@
     "@types/papaparse": "^5.3.5",
     "gh-pages": "^4.0.0"
   },
-  "homepage": "http://mudasar477.github.io/frontend-trial-assignment"
+  "homepage": "http://mudasar477.github.io/frontend-trial-assignment-updated-version"
 }
